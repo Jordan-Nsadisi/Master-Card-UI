@@ -4,7 +4,9 @@ import viteLogo from '/vite.svg'
 
 function App() {
   return (
-    <h2 className='bg-red-500'>hello</h2>
+    <main class="flex h-screen w-screen items-center justify-center bg-[url('https://i.imgur.com/1O8ovx1.jpeg')] bg-cover">
+
+    </main>
   )
 }
 
